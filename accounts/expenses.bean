@@ -1,29 +1,125 @@
-; 饮食
+;饮食
 1970-01-01 open Expenses:Food:Breakfast ;早餐
 1970-01-01 open Expenses:Food:Lunch ;午餐
 1970-01-01 open Expenses:Food:Dinner ;晚餐
 1970-01-01 open Expenses:Food:Midnight ;宵夜
-1970-01-01 open Expenses:Food:Snack	;零食
+1970-01-01 open Expenses:Food:Snack ;零食
 1970-01-01 open Expenses:Food:Fruit ;水果
 1970-01-01 open Expenses:Food:Drinks ;饮料
-1970-01-01 open Expenses:Food:Ingredients	;买菜原料
-1970-01-01 open Expenses:Food:Seasoning	;调料
-1970-01-01 open Expenses:Food:GrainOil 	;粮油
+1970-01-01 open Expenses:Food:Ingredients ;买菜原料
+1970-01-01 open Expenses:Food:Seasoning ;调料
+1970-01-01 open Expenses:Food:GrainOil  ;粮油
 1970-01-01 open Expenses:Food:Other
 
-; 嗜好
-1970-01-01 open	Expenses:Hobby:Cigarette:Lighter ;打火机
-1963-01-01 open	Expenses:Hobby:Cigarette:E-Cigarette ;电子烟
-1970-01-01 open	Expenses:Hobby:Cigarette:Other
+;嗜好
+1970-01-01 open Expenses:Hobby:Cigarette:Lighter ;打火机
+1963-01-01 open Expenses:Hobby:Cigarette:E-Cigarette ;电子烟
+1970-01-01 open Expenses:Hobby:Cigarette:Other
 
 ;交通
 1919-03-22 open Expenses:Transport:Airline
 1885-01-01 open Expenses:Transport:Bike
 1970-01-01 open Expenses:Transport:Bus ;公交大巴
-1970-01-01 open Expenses:Transport:Coach	;长途汽车
+1970-01-01 open Expenses:Transport:Coach  ;长途汽车
 1825-09-27 open Expenses:Transport:Railway
 1970-01-01 open Expenses:Transport:Refuel ;加油
-1970-01-01 open Expenses:Transport:Ship ; 运输
+1970-01-01 open Expenses:Transport:Ship ;运输
 1863-01-10 open Expenses:Transport:Subway
 1970-01-01 open Expenses:Transport:Taxi
 1970-01-01 open Expenses:Transport:Other
+
+;居家
+1970-01-01 open Expenses:Home:Hairdressing  ;美发美容
+1970-01-01 open Expenses:Home:Rent  ;房租
+1970-01-01 open Expenses:Home:ExpressPost ;快递邮政
+1970-01-01 open Expenses:Home:CommunicationFee ;通讯费
+1970-01-01 open Expenses:Home:ElectricityWaterGas ;水电煤气
+2010-01-01 open Expenses:Home:PropertyFee ;物业费
+2010-01-01 open Expenses:Home:Heating ;取暖费
+1970-01-01 open Expenses:Home:Housekeeping ;家政服务
+1970-01-01 open Expenses:Home:Photography ;摄影
+1970-01-01 open Expenses:Home:BuildingMaterials  ;材料建材
+1970-01-01 open Expenses:Home:Other ;其他
+
+;关系
+1970-01-01 open Expenses:Relationship:Gift  ;礼物
+1970-01-01 open Expenses:Relationship:GiftMoney ;礼金
+1970-01-01 open Expenses:Relationship:GiftPayment ;代付款
+1970-01-01 open Expenses:Relationship:RedEnvelope ;红包
+1970-01-01 open Expenses:Relationship:FilialPiety ;孝敬
+1970-01-01 open Expenses:Relationship:Donate ;捐款
+1970-01-01 open Expenses:Relationship:Other ;其他
+
+;购物
+1970-01-01 open Expenses:Shopping:Clothing  ;服饰鞋包
+1970-01-01 open Expenses:Shopping:Digital  ;电子数码
+1970-01-01 open Expenses:Shopping:DailyNecessities   ;日用百货
+1970-01-01 open Expenses:Shopping:Appliances   ;电器
+1970-01-01 open Expenses:Shopping:Book  ;书
+1970-01-01 open Expenses:Shopping:Makeup  ;化妆护肤
+1970-01-01 open Expenses:Shopping:Software  ;软件服务
+1970-01-01 open Expenses:Shopping:Broadband  ;宽带
+1970-01-01 open Expenses:Shopping:Furniture  ;家具
+1970-01-01 open Expenses:Shopping:Textiles  ;家纺
+1970-01-01 open Expenses:Shopping:Stationery  ;文具
+1970-01-01 open Expenses:Shopping:Toy  ;玩具
+1970-01-01 open Expenses:Shopping:Other  ;其他
+
+;医疗健康
+1970-01-01 open Expenses:Health:Outpatient  ;门诊
+1970-01-01 open Expenses:Health:Medical  ;药品
+1970-01-01 open Expenses:Health:Examination  ;体检
+1970-01-01 open Expenses:Health:Supplies ;保健用品
+1970-01-01 open Expenses:Health:Other  ;其他
+
+;娱乐
+1970-01-01 open Expenses:Entertainment:Movie  ;电影
+1970-01-01 open Expenses:Entertainment:Game  ;游戏
+1970-01-01 open Expenses:Entertainment:Travel  ;旅游度假
+1970-01-01 open Expenses:Entertainment:Hotel  ;酒店住宿
+1970-01-01 open Expenses:Entertainment:Media  ;网络流媒体服务
+1970-01-01 open Expenses:Entertainment:Show  ;演出门票
+1970-01-01 open Expenses:Entertainment:MahjongChess   ;麻将棋牌
+1970-01-01 open Expenses:Entertainment:Party   ;聚会
+1970-01-01 open Expenses:Entertainment:Pet   ;宠物
+1970-01-01 open Expenses:Entertainment:Fitness   ;健身运动
+1970-01-01 open Expenses:Entertainment:Bath   ;洗浴
+1970-01-01 open Expenses:Entertainment:KTV
+1970-01-01 open Expenses:Entertainment:TV
+1970-01-01 open Expenses:Entertainment:Other
+
+;五险一金
+1970-01-01 open Expenses:Government:Insurance:Pension ;养老保险
+1970-01-01 open Expenses:Government:Insurance:Unemployment ;失业保险
+1970-01-01 open Expenses:Government:Insurance:Medical ;医疗保险
+1970-01-01 open Expenses:Government:Insurance:Injury ;工伤保险
+1970-01-01 open Expenses:Government:Insurance:Maternity ;生育保险
+1970-01-01 open Expenses:Government:Provident ;公积金
+
+;个人税
+1970-01-01 open Expenses:Government:IncomeTax
+1970-01-01 open Expenses:Government:Customs ;关税
+
+1970-01-01 open Expenses:Rent ;租赁
+1970-01-01 open Expenses:Tickets ;票
+
+;投资
+1970-01-01 open Expenses:Invest:Dev ;技术基础设施费用
+1970-01-01 open Expenses:Invest:Study ;学习费用
+1970-01-01 open Expenses:Invest:Exam ;考试费用
+1970-01-01 open Expenses:Invest:Portfolio:Interest ;利息支出
+1970-01-01 open Expenses:Invest:TaxFee ;税费手续费
+1970-01-01 open Expenses:Invest:Fee ;手续费
+1970-01-01 open Expenses:Invest:Insurance ;保险
+1970-01-01 open Expenses:Invest:Found ;投资创办
+1970-01-01 open Expenses:Invest:Other ;其他
+
+1970-01-01 open Expenses:Loan:Interest ;利息
+
+;商业
+1970-01-01 open Expenses:Business:Labor ;人工
+1970-01-01 open Expenses:Business:Other ;其他
+1970-01-01 open Expenses:Business:Operating ;运营
+1970-01-01 open Expenses:Business:Purchase ;进货采购
+
+2010-01-01 open Expenses:Other:Fine ;罚款
