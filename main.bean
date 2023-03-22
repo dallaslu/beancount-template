@@ -1,0 +1,25 @@
+1792-01-01 commodity USD
+  export: "CASH"
+  name: "US Dollar"
+
+1948-12-01 commodity CNY
+  export: "CASH"
+  name: "人民币"
+
+1937-08-01 commodity HKD
+  export: "CASH"
+  name: "HK Dollar"
+
+1999-01-01 commodity EUR
+  export: "CASH"
+  name: "Euro"
+
+2009-01-03 commodity BTC
+  export: "CASH"
+  name: "Bitcoin"
+
+2009-01-03 commodity SAT
+  export: "CASH"
+  name: "Bitcoin Satoshi"
+
+2009-01-03 price BTC 100000000 SAT
