@@ -2,6 +2,13 @@ option "title" "Beancount Template"
 option "operating_currency" "USD"
 option "operating_currency" "CNY"
 
+option "account_rounding" "Equity:RoundingError"
+option "insert_pythonpath" "True"
+
+plugin "beancount_periodic.amortize"
+plugin "beancount_periodic.depreciate"
+plugin "beancount_periodic.recur"
+
 1792-01-01 commodity USD
   export: "CASH"
   name: "US Dollar"
