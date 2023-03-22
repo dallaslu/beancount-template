@@ -1,0 +1,29 @@
+; 饮食
+1970-01-01 open Expenses:Food:Breakfast ;早餐
+1970-01-01 open Expenses:Food:Lunch ;午餐
+1970-01-01 open Expenses:Food:Dinner ;晚餐
+1970-01-01 open Expenses:Food:Midnight ;宵夜
+1970-01-01 open Expenses:Food:Snack	;零食
+1970-01-01 open Expenses:Food:Fruit ;水果
+1970-01-01 open Expenses:Food:Drinks ;饮料
+1970-01-01 open Expenses:Food:Ingredients	;买菜原料
+1970-01-01 open Expenses:Food:Seasoning	;调料
+1970-01-01 open Expenses:Food:GrainOil 	;粮油
+1970-01-01 open Expenses:Food:Other
+
+; 嗜好
+1970-01-01 open	Expenses:Hobby:Cigarette:Lighter ;打火机
+1963-01-01 open	Expenses:Hobby:Cigarette:E-Cigarette ;电子烟
+1970-01-01 open	Expenses:Hobby:Cigarette:Other
+
+;交通
+1919-03-22 open Expenses:Transport:Airline
+1885-01-01 open Expenses:Transport:Bike
+1970-01-01 open Expenses:Transport:Bus ;公交大巴
+1970-01-01 open Expenses:Transport:Coach	;长途汽车
+1825-09-27 open Expenses:Transport:Railway
+1970-01-01 open Expenses:Transport:Refuel ;加油
+1970-01-01 open Expenses:Transport:Ship ; 运输
+1863-01-10 open Expenses:Transport:Subway
+1970-01-01 open Expenses:Transport:Taxi
+1970-01-01 open Expenses:Transport:Other
