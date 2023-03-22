@@ -1,3 +1,7 @@
+option "title" "Beancount Template"
+option "operating_currency" "USD"
+option "operating_currency" "CNY"
+
 1792-01-01 commodity USD
   export: "CASH"
   name: "US Dollar"
@@ -23,3 +27,7 @@
   name: "Bitcoin Satoshi"
 
 2009-01-03 price BTC 100000000 SAT
+
+
+include "accounts/expenses.bean"
+include "accounts/income.bean"
